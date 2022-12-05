@@ -12,9 +12,6 @@
       * [Data Preprocessing](#data-preprocessing)
    * [Training REGNET](#training-regnet)
    * [Generating Sound](#generating-sound)
-* [Other Info](#other-info)
-   * [Citation](#citation)
-   * [Contact](#contact)
 
 
 ----
